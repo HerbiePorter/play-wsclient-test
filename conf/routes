@@ -1,0 +1,2 @@
+# Routes
+GET         /echo-session    wsclient.EchoSessionController.echoSession
